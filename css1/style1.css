@@ -1,0 +1,121 @@
+
+.topcontainer{
+  background-color: #a6dcef;
+  padding-top: 100px;
+  position: relative;
+}
+body{
+  font-family: 'MuseoModerno', cursive;
+  font-size: 2em;
+  margin:0;
+  text-align: center;
+
+}
+h1{
+  font-size: 4.375rem;
+  font-family: 'Orbitron', sans-serif;
+  margin-top: 0;
+  color: #111d5e;
+  line-height: 2;
+}
+h2{
+  font-family: 'MuseoModerno', cursive;
+  font-size: 3rem;
+  color:#111d5e;
+}
+h3{
+  font-family: 'MuseoModerno', cursive;
+  font-size: 1.5rem;
+  color: #111d5e;
+}
+.bottomcloud{
+  left:650px;
+  position: absolute;
+
+}
+.topcloud{
+    left: 1100px;
+    top: 30px;
+  position: absolute;
+}
+.middlecontainer{
+
+}
+.bottomcontainer{
+  padding: 20px 0;
+  background-color: #a6dcef;
+
+}
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted ;
+  border-color: #c9d1d3;
+  border-width:10px;
+  width:4.5%;
+  margin: 100px auto;
+}
+.mpmc{
+  width: 378px;
+  height: 225px;
+  float: left;
+  margin-right: 30px;
+}
+.dig{
+  float: left;
+  margin-right: 30px;
+}
+.footerlink{
+  color:#111d5e;
+}
+.skillrow1{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: normal;
+}
+.skillrow2{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: normal;
+}
+.btn {
+	background-color:#44c767;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'MuseoModerno', cursive;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}
+.btn:hover {
+	background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
